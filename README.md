@@ -30,7 +30,7 @@ IT304-Final-Project/
 
 ## 👥 Team Member Assignments
 
-### ✅ Team Member 1 | rs-its (Done)
+### ✅ Team Member 1 | @rs-its (Done)
 - **Section:** Introduction to Deepfake Technology (`introduction.html`)
 - **Status:** Fully written and complete
 - **Task:** Deploy to GitHub Pages, coordinate with team
