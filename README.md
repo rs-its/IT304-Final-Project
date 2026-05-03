@@ -2,7 +2,7 @@
 ---
 # Site live @ [rs-its.github.io/IT304-Final-Project/](https://rs-its.github.io/IT304-Final-Project/)
 ---
-## By: Group: #7
+## By: Group #7
 ---
 ## 🎯 Project Overview
 This website provides a critical analysis of deepfake technology through ethical frameworks, real-world applications, and policy recommendations. Our team examines how generated/synthetic media impacts democracy, personal privacy, and social trust.
@@ -36,10 +36,10 @@ IT304-Final-Project/
 ### ✅ Team Member 2 | Nick Nguyen (Done)
 - **Section:** Political Deepfakes (`application1.html`)
 
-### ✅ Team Member 3 | Ibtissame (Done)
+### ✅ Team Member 3 | Ibtissame Ettalhi (Done)
 - **Section:** Media Applications & Fraud (`application2.html`)
 
-### ✅ Team Member 4 | Humaira (Done)
+### ✅ Team Member 4 | Humaira Supti (Done)
 - **Section:** Ethical Analysis (`ethics.html`)
 
 ### ✅ Team Member 5 | Majd Agha (Done)
