@@ -20,10 +20,10 @@ IT304-Final-Project/
 ├── introduction.html       # Introduction to deepfakes
 ├── application1.html       # Political deepfakes
 ├── application2.html       # Media & fraud
-├── ethics.html            # Ethical analysis
-├── recommendations.html   # Social implications & recommendations
-├── styles.css             # Complete styling
-└── README.md             # This file
+├── ethics.html             # Ethical analysis
+├── recommendations.html    # Social implications & recommendations
+├── styles.css              # Complete styling
+└── README.md               # This file
 ```
 
 ---
