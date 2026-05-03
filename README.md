@@ -32,46 +32,18 @@ IT304-Final-Project/
 
 ### ✅ Team Member 1 | @rs-its (Done)
 - **Section:** Introduction to Deepfake Technology (`introduction.html`)
-- **Status:** Fully written and complete
-- **Task:** Deploy to GitHub Pages, coordinate with team
 
-### 📝 Team Member 2 | Nick Nguyen
+### ✅ Team Member 2 | Nick Nguyen (Done)
 - **Section:** Political Deepfakes (`application1.html`)
-- **Tasks:**
-  - Research 2 political deepfake case studies
-  - Write detailed analysis
-  - Add 2-3 images with sources
-  - Add 3-5 references
-- **Follow the orange instruction boxes in the file**
 
-### 📝 Team Member 3 | Ibtissame
+### ✅ Team Member 3 | Ibtissame (Done)
 - **Section:** Media Applications & Fraud (`application2.html`)
-- **Tasks:**
-  - Research entertainment uses AND fraud cases
-  - Write detailed analysis
-  - Add 2-3 images
-  - Add 3-5 references
-- **Follow the orange instruction boxes in the file**
 
-### 📝 Team Member 4 | Humaira
+### ✅ Team Member 4 | Humaira (Done)
 - **Section:** Ethical Analysis (`ethics.html`)
-- **Tasks:**
-  - Choose 2 ethical frameworks (recommended: Consequentialism + Rights-Based)
-  - Apply both frameworks to deepfake examples
-  - Write comparative analysis
-  - Add 1-2 diagrams/images
-  - Add 3-5 references
-- **Follow the orange instruction boxes in the file**
 
-### 📝 Team Member 5 | Majd Agha
+### ✅ Team Member 5 | Majd Agha (Done)
 - **Section:** Social Implications & Recommendations (`recommendations.html`)
-- **Tasks:**
-  - Identify stakeholders
-  - Provide policy, technical, and educational recommendations
-  - Write future outlook
-  - Add 2-3 infographics/images
-  - Add 4-6 references
-- **Follow the orange instruction boxes in the file**
 
 ---
 
@@ -79,14 +51,6 @@ IT304-Final-Project/
 
 ### Before Final Submission:
 
-- [ ] All 5 HTML pages have content (no template instructions visible)
-- [ ] Each section has appropriate images (2-3 per page)
-- [ ] Each section has proper references (3-5+ sources per page)
-- [ ] All navigation links work correctly
-- [ ] Website looks good desktop
-- [ ] Team member names updated on landing page (`index.html`)
-- [ ] Spell-check and proofread all content
-- [ ] Test all external links (references)
 - [ ] Create PDF snapshot of final website
 - [ ] Prepare one-page improvement summary (based on peer feedback)
 
