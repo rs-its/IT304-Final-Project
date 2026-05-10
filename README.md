@@ -47,17 +47,8 @@ IT304-Final-Project/
 
 ---
 
-## ✅ Project Completion Checklist
-
-### Before Final Submission:
-
-- [ ] Create PDF snapshot of final website
-- [ ] Prepare one-page improvement summary (based on peer feedback)
-
-### Final Submission Requirements (from syllabus):
-1. **Website URL:** `https://rs-its.github.io/IT304-Final-Project/`
-2. **Repository URL:** `https://github.com/rs-its/IT304-Final-Project`
-3. **PDF snapshot** of the complete website
-4. **One-page summary** of improvements made after peer feedback
+### Final Submission Requirements:
+* **Website URL:** `https://rs-its.github.io/IT304-Final-Project/`
+* **Repository URL:** `https://github.com/rs-its/IT304-Final-Project`
 
 ---
